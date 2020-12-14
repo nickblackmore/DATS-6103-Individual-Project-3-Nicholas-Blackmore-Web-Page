@@ -67,4 +67,4 @@ Another important finding was was the demographic distribution amongst the clust
 While I consider the research into this topic successful, there are definitely ways to improve. For one, I didn't have the hardware to take full advantage of the K-prototypes clustering algorithm. My ability to cluster was limited to random samples of data and all feature selection was done on a trial and error basis.
 Addtionally, data on this topic is not as readily available as I believe it should be. As a result of this. I was limited to using data from 2007 to create clusters, as this was the only sizeable dataset available to the public.
 
-The data for this project is published on [Zenodo](https://zenodo.org/record/4321608#.X9e6jhNKhhE) and the code is on [Github](https://github.com/nickblackmore/DATS-6103-Individual-Project-3-Nicholas-Blackmore). 
+The data for this project is published on [Zenodo](https://zenodo.org/record/4321611#.X9e8CBNKhhE) and the code is on [Github](https://github.com/nickblackmore/DATS-6103-Individual-Project-3-Nicholas-Blackmore). 
