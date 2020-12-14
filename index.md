@@ -52,8 +52,6 @@ Number of buinesses: 1683, Traits: High above average employees, payroll and rec
 #### Born in the United States
 <img src="Born In USA by Cluster.png" alt="image not found" class="inline"/>
 
-### 5. Weather Events With the Highest Correlation between Economic Damages and Co2 Levels
-<img src="Correlations between economic damages and Co2 levels for each weather event.png" alt="image not found" class="inline"/>
 
 ## Conclusion
 
