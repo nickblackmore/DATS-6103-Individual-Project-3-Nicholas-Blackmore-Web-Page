@@ -49,6 +49,7 @@ Number of buinesses: 1683, Traits: High above average employees, payroll and rec
 ### Minorities Representation by Cluster
 #### Minorities
 <img src="Minorities by Cluster.png" alt="image not found" class="inline"/>
+
 #### Born in the United States
 <img src="Born In USA by Cluster.png" alt="image not found" class="inline"/>
 
