@@ -5,9 +5,9 @@
 2. Are there any states that have higher than average minority business ownership across all classes?
 3. What other ways can businesses be clustered besides sector, and what is the minority breakdown across these clusters?
 
-For this project I wil be examining the trends in business ownership in the United States. The data for this project was acquired through the United States Census Bureau's Survey of Business Owners. The Survey of Business Owners is conducted every 5 years. The Census Bureau publishes the summary statistics for each survey based on traits like race, ethnicity, education level, and whether a person was born in the United States. I will begin the project looking at trends in this data for the survey years 2002, 2007, and 2012. This data can be found here: https://www.census.gov/programs-surveys/sbo/data/tables.html
+For this project I wil be examining the trends in business ownership in the United States. The data for this project was acquired through the United States Census Bureau's Survey of Business Owners. The Survey of Business Owners is conducted every 5 years. The Census Bureau publishes the summary statistics for each survey based on traits like race, ethnicity, education level, and whether a person was born in the United States. I will begin the project looking at trends in this data for the survey years 2002, 2007, and 2012. This data can be found [here](https://www.census.gov/programs-surveys/sbo/data/tables.html).
 
-The Census Bureau has also releases a microdata sample for the year 2007. This sample contains data regarding the characteristics of individual businesses and their respective owners for about 1.5 million businesses. To protect the indentity of the businesses and their owners artificial noise is inserted into the dataset. Notably, this dataset also contains geographic information about each business as well as estimated for their employees, payroll, and receivables. This dataset can be found here: https://www.census.gov/content/census/en/data/datasets/2007/econ/sbo/2007-sbo-pums.html
+The Census Bureau has also releases a microdata sample for the year 2007. This sample contains data regarding the characteristics of individual businesses and their respective owners for about 1.5 million businesses. To protect the indentity of the businesses and their owners artificial noise is inserted into the dataset. Notably, this dataset also contains geographic information about each business as well as estimated for their employees, payroll, and receivables. This dataset can be found [here](https://www.census.gov/content/census/en/data/datasets/2007/econ/sbo/2007-sbo-pums.html).
 
 ## Visualization
 Below are samples of this visualizations I created. The visualizations are interactive, but I addes some screenshot samples for this publication.
@@ -46,8 +46,8 @@ Number of buinesses: 1683, Traits: High above average employees, payroll and rec
 
 <img src="Cluster.png" alt="image not found" class="inline"/>
 
-### Minorities Representation by Cluster
-#### Minorities
+### Minority Representation by Cluster
+#### Minority
 <img src="Minorities by Cluster.png" alt="image not found" class="inline"/>
 
 #### Born in the United States
@@ -67,4 +67,4 @@ Another important finding was was the demographic distribution amongst the clust
 While I consider the research into this topic successful, there are definitely ways to improve. For one, I didn't have the hardware to take full advantage of the K-prototypes clustering algorithm. My ability to cluster was limited to random samples of data and all feature selection was done on a trial and error basis.
 Addtionally, data on this topic is not as readily available as I believe it should be. As a result of this. I was limited to using data from 2007 to create clusters, as this was the only sizeable dataset available to the public.
 
-The data for this project is published on Zenodo() and the code is on Gitbub(https://github.com/nickblackmore/DATS-6103-Individual-Project-3-Nicholas-Blackmore). 
+The data for this project is published on [Zenodo]() and the code is on [Github](https://github.com/nickblackmore/DATS-6103-Individual-Project-3-Nicholas-Blackmore). 
