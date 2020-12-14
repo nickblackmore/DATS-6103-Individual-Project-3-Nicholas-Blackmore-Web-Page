@@ -22,7 +22,7 @@ Below are samples of this visualizations I created. The visualizations are inter
 ### 3. Percent of Minority Business Ownership by State
 <img src="Choropleth.png" alt="image not found" class="inline"/>
 
-## 4. Clustering
+## Clustering
 In this section, I want to explore creating clusters for different types of businesses based on traits like employment, payroll, receivalbles, whether the business was family owned, and so on. I then wanted to determine the breakdown of different characteristics of business owners by cluster. 
 
 For this problem I decided to use K-Protoypes Clustering. This algorithm is a mixture of K-Means and K-Modes, and fits this problem well because it can cluster based on both numerical and categorical data. A downside of this algorithm is the computational complexity as you increase the number of data. Without a gpu and hours/days to train the model, I was not able to cluster based on all 1.5 million datapoints. Instead, I had to take random samples of the data. The most I could train with given the limitations of my hardware was 10,000, even after I split the work between all 6 of the processor cores on my laptop.
