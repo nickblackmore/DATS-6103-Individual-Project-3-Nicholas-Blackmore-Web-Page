@@ -10,7 +10,7 @@ For this project I will be examining the trends in business ownership in the Uni
 The Census Bureau has also releases a microdata sample for the year 2007. This sample contains data regarding the characteristics of individual businesses and their respective owners for about 1.5 million businesses. To protect the identity of the businesses and their owners artificial noise is inserted into the dataset. Notably, this dataset also contains geographic information about each business as well as estimated for their employees, payroll, and receivables. This dataset can be found [here](https://www.census.gov/content/census/en/data/datasets/2007/econ/sbo/2007-sbo-pums.html).
 
 ## Visualization
-Below are samples of this visualizations I created. The visualizations are interactive, but I addes some screenshot samples for this publication.
+Below are samples of this visualizations I created. The visualizations are interactive within the Jupyter Notebook environment, but I added some screenshot samples for this publication.
 
 ### 1. Overall Trends in Business Owership
 <img src="Single Line Chart.png" alt="image not found" class="inline"/>
